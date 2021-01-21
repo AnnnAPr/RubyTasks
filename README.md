@@ -1,6 +1,6 @@
 # RubyTasks
 
-There are most of files with code on **Ruby** (.rb) and some files with code on Python (.py).
+There are the most of files with code on **Ruby** (.rb) and some files with code on Python (.py) in this repository.
 Every file has **description** on the top (in comments) what code does.
 
 You can run code on this playground https://repl.it/languages/ruby
